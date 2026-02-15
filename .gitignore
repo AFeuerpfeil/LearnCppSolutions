@@ -16,3 +16,5 @@ docs/build/
 docs/src/index.md
 examples/LocalPreferences.toml
 test/LocalPreferences.toml
+
+main
